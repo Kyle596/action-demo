@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
       - name: nginx-demo
-        image: ACR_EE_REGISTRY/ACR_EE_NAMESPACE/ACR_EE_IMAGE:TAG
+        image: REGISTRY/NAMESPACE/IMAGE:TAG
         resources:
           requests:
             cpu: 100m
