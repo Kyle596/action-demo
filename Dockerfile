@@ -1,2 +1,2 @@
 From nginx
-RUN  echo 'Hello Alibaba3' > /usr/share/nginx/html/index.html
+RUN  echo 'Hello Alibaba1' > /usr/share/nginx/html/index.html
